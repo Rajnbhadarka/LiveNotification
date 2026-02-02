@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zepkit</string>
+
+    <string name="str_need_permissions">Need Permissions</string>
+    <string name="str_goto_settings">GOTO SETTINGS</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="str_this_app_needs_permission_to_use_this_feature_you_can_grant_them_in_app_settings">This app needs permission to use this feature. You can grant them in app settings.</string>
+
+</resources>
