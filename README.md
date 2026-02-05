@@ -11,7 +11,7 @@ Zepkit is a concept food-delivery tracking application designed to showcase the 
 
 
 ```bash
-[git clone https://github.com/yourusername/Zepkit.git](https://github.com/user-attachments/assets/a4318d94-cf8d-4f48-b8d1-ffa2abb96dd2)
+https://github.com/user-attachments/assets/a4318d94-cf8d-4f48-b8d1-ffa2abb96dd2
 
 ```
 
