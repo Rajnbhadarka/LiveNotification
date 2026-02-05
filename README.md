@@ -9,8 +9,11 @@ Zepkit is a concept food-delivery tracking application designed to showcase the 
 <img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/2c1653bc-f4dd-43d7-90f8-75a824e85005" />
 
 
-https://github.com/user-attachments/assets/a4318d94-cf8d-4f48-b8d1-ffa2abb96dd2
 
+```bash
+[git clone https://github.com/yourusername/Zepkit.git](https://github.com/user-attachments/assets/a4318d94-cf8d-4f48-b8d1-ffa2abb96dd2)
+
+```
 
 
 ---
